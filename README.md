@@ -54,16 +54,8 @@ Usamos SemVer para el versionado. Para todas las versiones disponibles, mira los
 Autores ✒️
 Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 
-Andrés Villanueva - Trabajo Inicial - villanuevand
-Fulanito Detal - Documentación - fulanitodetal
-También puedes mirar la lista de todos los contribuyentes quíenes han participado en este proyecto.
+
 
 Licencia 📄
 Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo LICENSE.md para detalles
 
-Expresiones de Gratitud 🎁
-Comenta a otros sobre este proyecto 📢
-Invita una cerveza 🍺 o un café ☕ a alguien del equipo.
-Da las gracias públicamente 🤓.
-Dona con cripto a esta dirección: 0xf253fc233333078436d111175e5a76a649890000
-etc.
